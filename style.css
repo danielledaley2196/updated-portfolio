@@ -32,8 +32,28 @@ ul.List {
 }
 a:link {
     text-decoration: none;
-    color: #7cadbe;
+    color: #5a91a6;
 }
 a:visited {
     text-decoration: none;
     color: #7cadbe;
+}
+h2 {
+    color: darkblue;
+}
+h4 {
+    color: darkblue;
+}
+img.dogimg {
+    height: 200px;
+    width: 200px;
+    margin: 20px auto;
+}
+img.quizimg {
+    height: 200px;
+    width: 200px;
+    margin: 20px auto;
+}
+h5 {
+    color: #5a91a6;
+}
