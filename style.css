@@ -1,7 +1,17 @@
 nav.navbar {
     background-color: #5a91a6;
+    height: 50px;
 }
 span.navbar-brand {
-    color: white;
+    color:black;
+    text-align: center;
+}
+footer.foot {
+    background-color: #5a91a6;
+    height: 50px;
+    margin: 0 auto;
+    left: 0;
+    bottom: 0;
+    width: 100%;
     text-align: center;
 }
