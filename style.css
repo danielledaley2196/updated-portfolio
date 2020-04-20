@@ -1,59 +1,63 @@
 nav.navbar {
-    background-color: #5a91a6;
-    height: 50px;
+  background-color: #5a91a6;
+  height: 50px;
 }
 span.navbar-brand {
-    color:black;
-    text-align: center;
+  color: black;
+  text-align: center;
 }
 footer.foot {
-    background-color: #5a91a6;
-    height: 50px;
-    margin: 0 auto;
-    left: 0;
-    bottom: 0;
-    width: 100%;
-    text-align: center;
+  background-color: #5a91a6;
+  height: 50px;
+  margin: 0 auto;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
 }
 img.profilepic {
-    height: 200px;
-    width: 200px;
-    transform: rotate(90deg);
-    margin: 20px auto;
+  height: 200px;
+  width: 200px;
+  margin: 20px auto;
 }
 div.contact {
-    color: #5a91a6;
+  color: #5a91a6;
 }
 div.links {
-    color: #5a91a6;
+  color: #5a91a6;
 }
 ul.List {
-    color: #7cadbe;
+  color: #7cadbe;
 }
 a:link {
-    text-decoration: none;
-    color: #5a91a6;
+  text-decoration: none;
+  color: #5a91a6;
 }
 a:visited {
-    text-decoration: none;
-    color: #7cadbe;
+  text-decoration: none;
+  color: #7cadbe;
 }
 h2 {
-    color: darkblue;
+  color: darkblue;
 }
 h4 {
-    color: darkblue;
+  color: darkblue;
 }
 img.dogimg {
-    height: 200px;
-    width: 200px;
-    margin: 20px auto;
+  height: 200px;
+  width: 200px;
+  margin: 20px auto;
 }
 img.quizimg {
-    height: 200px;
-    width: 200px;
-    margin: 20px auto;
+  height: 200px;
+  width: 200px;
+  margin: 20px auto;
 }
 h5 {
-    color: #5a91a6;
+  color: #5a91a6;
+}
+img.shopimg {
+  height: 200px;
+  width: 200px;
+  margin: 20px auto;
 }
